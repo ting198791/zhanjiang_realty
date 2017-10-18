@@ -1,0 +1,895 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title> 湛江市房产管理局</title>
+<link href="style/main.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/menu.js"></script>
+</head>
+
+<body>
+<form name="Form1" method="post" action="AList3.aspx?columnflag=BF3B4147E4C989FA&amp;columnid=216&amp;columnname=6B4D7028B861DF60F4A082D5E56483F5&amp;page=43" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTE2NjgwNjMyMw9kFgICAQ9kFgRmD2QWAmYPDxYCHgRUZXh0BS7mgqjlpb0sICDku4rlpKnmmK8yMDE3LTYtMjYgIOaYn+acn+S4gCAxMyA6IDI4ZGQCBA9kFgpmDxYCHgtfIUl0ZW1Db3VudAIMFhgCAQ9kFgRmDxUBBzMxNjI3MzFkAgEPFQUn6I2j55ub5bm/5Lic5oi/5Zyw5Lqn5byA5Y+R5pyJ6ZmQ5YWs5Y+4ATEBMQg5NTAwMC4wMAkyMDE3LTUtMTZkAgIPZBYEZg8VAQczMTYyNzMwZAIBDxUFKua5m+axn+W4guS6rOWfuuaIv+WcsOS6p+W8gOWPkeaciemZkOWFrOWPuAE0ATQJNjU1NDAwLjAwCTIwMTctNS0xNmQCAw9kFgRmDxUBBzMxNjI3MjlkAgEPFQUq5rmb5rGf5biC6ZSm5rqQ5oi/5Zyw5Lqn5byA5Y+R5pyJ6ZmQ5YWs5Y+4ATEBMQk3NDIwOTQuMDAJMjAxNy01LTE2ZAIED2QWBGYPFQEHMzE2MDA3NmQCAQ8VBSrmuZvmsZ/luILpobrmsZ/miL/lnLDkuqflvIDlj5HmnInpmZDlhazlj7gBNAE0CjQ5MzgxNTUuMDAJMjAxNy01LTE1ZAIFD2QWBGYPFQEHMzE2MDA3NWQCAQ8VBSrmuZvmsZ/ljY7osJvllYbkuJrmipXotYTlj5HlsZXmnInpmZDlhazlj7gBNwE3CjM2OTUyMzUuMDAJMjAxNy01LTE1ZAIGD2QWBGYPFQEHMzE2MDA3NGQCAQ8VBSfkuK3kuqTlm5voiKrlsYDnrKzkuInlt6XnqIvmnInpmZDlhazlj7gBNQE1CjQ4MDA4OTguMDAJMjAxNy01LTE1ZAIHD2QWBGYPFQEHMzE2MDA3M2QCAQ8VBS3kv53liKnvvIjmuZvmsZ/vvInmiL/lnLDkuqflvIDlj5HmnInpmZDlhazlj7gBNgE2CjUzODg5OTcuMDAJMjAxNy01LTE1ZAIID2QWBGYPFQEHMzE2MDA3MmQCAQ8VBTDmuZvmsZ/lvIDlj5HljLrojaPlj5HmiL/lnLDkuqflvIDlj5HmnInpmZDlhazlj7gBMQExCjEyMzcxNTIuMDAJMjAxNy01LTE1ZAIJD2QWBGYPFQEHMzE2MDA3MWQCAQ8VBS3muZvmsZ/lvIDlj5HljLrkuIfovr7lub/lnLrmipXotYTmnInpmZDlhazlj7gBNQE1CjI2Mzk2ODMuMDAJMjAxNy01LTE1ZAIKD2QWBGYPFQEHMzE2MDA3MGQCAQ8VBSfmuZvmsZ/luoblkozmiL/lnLDkuqflvIDlj5HmnInpmZDlhazlj7gBMgEyCjEwMDAwMDAuMDAJMjAxNy01LTE1ZAILD2QWBGYPFQEHMzE2MDA2OWQCAQ8VBSTmuZvmsZ/luILojaPlhbTmiL/lnLDkuqfmnInpmZDlhazlj7gBNAE0CjI4NDYwODcuMDAJMjAxNy01LTE1ZAIMD2QWBGYPFQEHMzE2MDA2OGQCAQ8VBSTmuZvmsZ/lub/lkozlrp7kuJrlj5HlsZXmnInpmZDlhazlj7gBMwEzCjU2MTgxODEuMDAJMjAxNy01LTE1ZAICDw8WAh8ABQUyNzQ5N2RkAgQPDxYCHwAFAjQzZGQCBg8PFgIfAAUEMjI5MmRkAggPDxYKHgxVcmxSZXdyaXRpbmdnHhBDdXJyZW50UGFnZUluZGV4AiseCVVSUGF0dGVybgVGfi9hbGxwZ19CRjNCNDE0N0U0Qzk4OUZBXzIxNl82QjRENzAyOEI4NjFERjYwRjRBMDgyRDVFNTY0ODNGNV97MH0uaHRtbB4LUmVjb3JkY291bnQC6dYBHghQYWdlU2l6ZQIMZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFEVVDVG9wMTEkc2VhcmNoYnRuT6fzfir7ALVm5CSZWTdJxskHvOw=" />
+
+<script language="Javascript"><!--
+function ANP_checkInput(bid,mv){var el=document.getElementById(bid);var r=new RegExp("^\\s*(\\d+)\\s*$");
+if(r.test(el.value)){if(RegExp.$1<1||RegExp.$1>mv){alert("页索引超出范围！");el.focus();el.select();return false;}
+return true;}alert("页索引不是有效的数值！");el.focus();el.select();return false;}
+function ANP_keydown(e,btnId){
+var kcode;
+if(window.event){kcode=e.keyCode;}
+else if(e.which){kcode=e.which;}
+var validKey=(kcode==8||kcode==46||kcode==37||kcode==39||(kcode>=48&&kcode<=57)||(kcode>=96&&kcode<=105));
+if(!validKey){
+if(kcode==13) document.getElementById(btnId).click();
+if(e.preventDefault) e.preventDefault();else{event.returnValue=false};
+}
+}
+function ANP_goToPage(inputEl){var pi=inputEl.value;location.href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_"+pi+".html";}
+--></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="6B39C1FE" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKLzdLGDAKs3oUGAsONw8APTPnCSzPVesQAMZNk3jH46ubfge0=" />
+<table width="1004" border="0" align="center" cellpadding="4" cellspacing="0" bgcolor="#FFFFFF" style="margin-top:80px">
+  <tr>
+    <td>
+    
+      <!-- top S -->
+      
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td> <span id="UCTop11_currenttimelb">您好,  今天是2017-6-26  星期一 13 : 28</span> </td>
+        <td align="right"><table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td>
+            <img src="images/wbimage.jpg" />
+              
+              
+            
+             
+             
+             </td>
+            <td>  <input name="UCTop11$SearchTB" type="text" id="UCTop11_SearchTB" name="SearchTB" type="text" class="zj01" />  </td>
+            <td width="53" align="center"> <input type="image" name="UCTop11$searchbtn" id="UCTop11_searchbtn" src="images/ico02.gif" border="0" /> </td>
+           <!-- <td width="70">  <img src="images/ico03.gif" /> </td> --> 
+          </tr>
+        </table></td>
+      </tr>
+      
+    </table>
+      <table border="0" cellspacing="0" cellpadding="0" style="margin-top:4px">
+        <tr>
+          <td style="width: 996px; height: 91px">
+          <!--<img src="/images/2012happynewyear.gif" width="996" height="60" />-->
+          <img src="/images/top1.jpg" width="996" height="91" /></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="background:url(/images/menubg.jpg) repeat-x">
+        <tr>
+          <td><div class="menu">
+              <ul>
+                <li id="menu1" class="bt02"><a href="/">首 页</a></li>
+                <li><img src="/images/menushu.jpg" /></li>
+                <li id="zcfg" class="bt02"  ><a href="/al_F3D01EDE0A95A0E5_208_543C2CFDC925DCD1310F190407FC035C5124E2C48A5D9B9D.html">政策法规</a></li>
+                <li><img src="/images/menushu.jpg" /></li>
+                <li id="fgdt" class="bt02"  ><a href="/al_0E29D5C7DEF3B94D_212_57B573E4BC954899DAC020B2AEA27254.html">房管动态</a></li>
+                <li><img src="/images/menushu.jpg" /></li>
+                <li id="jysc" class="bt02"  ><a href="/all_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html">统计信息</a></li>
+                <li><img src="/images/menushu.jpg" /></li>
+                
+                <li id="zzzg" class="bt02"  ><a href="zzgr.html">资质资格</a></li>
+               <!-- <li id="zzzg" class="bt02"  ><a href="/AList4.aspx?columnflag=zzzg&ColumnID=221&ColumnName=企业认证">资质资格</a></li> -->
+   
+                <li><img src="/images/menushu.jpg" /></li>
+                <li id="fwdh" class="bt02"  ><a href="/al_8CBA5D4EB9507F26_259_7D92815CB530B6AAF70B05CB3E8F75F6.html">服务导航</a></li>
+                <li><img src="/images/menushu.jpg" /></li>
+                <!-- <li id="wygl" class="bt02"><a href="AList5.aspx?columnflag=wygl&ColumnID=229&ColumnName=物业管理企业">物业管理</a></li> 
+                <li id="zwgk" class="bt02"  ><a href="/AList.aspx?columnflag=zwgk&ColumnID=234&ColumnName=机构职能">政务公开</a></li>-->
+                <li id="zwgk" class="bt02"  >
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                   <td style="position:relative; cursor:hand; z-index:12001;"  onmouseover="ShowDownMenu('downmenugk');" onmouseout="HideDownMenu('downmenugk');" >
+                     <div style="text-align:center;"><a href="/gk_145_150_362135791BC54B5D947ED675254378D28F7491968E4010DE.html">政务公开</a></div>         
+                     <!--政务公开下拉菜单项目-->
+               <table id="downmenugk" border="0"   cellpadding="0" cellspacing="0" style=" position:absolute; display:none;"  >
+                  <tr>
+                    <td><img src="/images/ni01.gif" width="167" height="7" /></td>
+                  </tr>
+                  <tr>
+                    <td background="/images/ni03.gif">
+                    <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="25" class="do17"><a href="http://zwgk.zhanjiang.gov.cn/fileserver/StaticHtml/NewsClassify/4f39ea86-2203-46be-a792-a4709224b661.htm" target="_blank" style="color: black; font-family: 宋体;">政府信息公开指南</a></td>
+                      </tr>
+                    </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="http://zwgk.zhanjiang.gov.cn/" target="_blank" style="color: black; font-family: 宋体;">政府信息公开目录</a></td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="http://zwgk.zhanjiang.gov.cn/fileserver/StaticHtml/NewsClassify/65e2ff7d-43e5-4899-8ce7-0449e59c997b.htm" target="_blank" style="color: black; font-family: 宋体;">信息公开年度工作报告</a></td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="http://ysq.zhanjiang.gov.cn/step1.php?u=39" target="_blank" style="color: black; font-family: 宋体;">政府信息依申请公开</a></td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="http://www.zhanjiang.gov.cn/_Layouts/ApplicationPages/Special/ImportantAreaInfo/keyproject.aspx" target="_blank" style="color: black; font-family: 宋体;">重点领域信息公开</a></td>
+                        </tr>
+                      </table>
+                      </td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/ni02.gif" width="167" height="3" /></td>
+                  </tr>
+                </table>
+                    </td>
+                  </tr>
+                </table>
+</li>
+                
+                <li><img src="/images/menushu.jpg" /></li>
+                <li id="gsgg" class="bt02"  ><a href="/al_957FB95CC8715343_243_5C3B4B8015C8E482B1AB82587DAEA975.html">公示公告</a></li>
+               
+               <!-- <li id="jydj" class="bt02"><a href="AList.aspx?columnflag=jydj&ColumnID=246&ColumnName=交易登记法规政策">交易登记</a></li> -->
+              </ul>
+          </div></td>
+        </tr>
+      </table>
+      
+    
+      
+      
+      
+      
+      <!-- 下拉菜单区 S -->
+       <table width="996" height="27" border="0" cellpadding="0" cellspacing="0" background="/images/quickNav_bg.jpg" bgcolor="#FFF2CD" style="margin-top:4px">
+        <tr>
+          <td width="113" height="22">&nbsp;</td>
+          <td width="883"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td   style="position:relative; cursor:hand;"  onmouseover="ShowDownMenu('downmenu1');" onmouseout="HideDownMenu('downmenu1');" >
+                <div style="text-align:center;"><a href="#">网上办事</a></div>
+                <!-- 下拉块1 S -->
+                <table id="downmenu1" border="0"   cellpadding="0" cellspacing="0" style=" position:absolute; display:none;"  >
+                  <tr>
+                    <td><img src="/images/ni01.gif" width="167" height="7" /></td>
+                  </tr>
+                  <tr>
+                    <td background="/images/ni03.gif">
+                    <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="25" class="do17"><a href="zjfdc/LoginForm.aspx" target="_blank">商品房网上预（销）售系统</a></td>
+                      </tr>
+                    </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="system/Login/login/login1.aspx" target="_blank">从业主体网上申报系统</a></td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="http://221.4.253.139:9904/zjwy/">湛江物业家园系统</a></td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="http://221.4.253.138/" target="_blank">维修资金管理系统</a></td>
+                        </tr>
+                      </table>
+         
+                      </td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/ni02.gif" width="167" height="3" /></td>
+                  </tr>
+                </table>
+                <!-- 下拉块1E  -->
+              
+              </td>
+            <td   style="position:relative; cursor:hand;"  onmouseover="ShowDownMenu('downmenu2');" onmouseout="HideDownMenu('downmenu2');" >
+                <div style="text-align:center;"><a href="#">交易登记</a></div>
+                <!-- 下拉块2 S -->
+                <table id="downmenu2" border="0"   cellpadding="0" cellspacing="0" style=" position:absolute; display:none;"  >
+                  <tr>
+                    <td><img src="/images/ni01.gif" width="167" height="7" /></td>
+                  </tr>
+                  <tr>
+                    <td background="/images/ni03.gif">
+                    <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="25" class="do17"><a href="/al_AC0C52C7ADC89924_245_D2A97A23E1FA3D224C7837724CA9DE71.html">交易登记指引
+</a></td>
+                      </tr>
+                    </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="all_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html">商品房网上签约信息
+</a></td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="/alll_AC0C52C7ADC89924_247_2F2E1AB2B44421F7FF7631DCB13703B097986D1E2FA2D4CB.html">商品房预售许可证
+</a></td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="25" class="do17"><a href="al_AC0C52C7ADC89924_296_3AA43CE8807A666B039F6609782A7D8A.html">产权登记指引
+</a></td>
+                      </tr>
+                    </table>
+                      
+                      <!--
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="/AList5.aspx?columnflag=jydj&ColumnID=261&ColumnName=配套商品房预售许可证">配套商品房预售许可证
+
+</a></td>
+                        </tr>
+                      </table>
+                      
+                       -->
+         
+                      </td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/ni02.gif" width="167" height="3" /></td>
+                  </tr>
+                </table>
+                <!-- 下拉块2E  -->
+              
+              </td>
+              
+              
+              
+              
+              
+               <td   style="position:relative; cursor:hand;"  onmouseover="ShowDownMenu('downmenu2a');" onmouseout="HideDownMenu('downmenu2a');" >
+                <div style="text-align:center;"><a href="#">物业管理</a></div>
+                <!-- 下拉块2 S -->
+                <table id="downmenu2a" border="0"   cellpadding="0" cellspacing="0" style=" position:absolute; display:none;"  >
+                  <tr>
+                    <td><img src="/images/ni01.gif" width="167" height="7" /></td>
+                  </tr>
+                  <tr>
+                    <td background="/images/ni03.gif">
+                    <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                    
+                      
+                      
+                      <tr>
+                        <td height="25" class="do17"><a href="http://www.zjfgj.cn/ac_27420_8CBA5D4EB9507F26_259_7D92815CB530B6AAF70B05CB3E8F75F6.html">办事指南 
+</a></td>     <!--<a href="/al_C902A54F6C8AC8CD_292_7D92815CB530B6AAF70B05CB3E8F75F6.html">-->
+                      </tr>
+                      
+                    </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        
+                        
+                        <tr>
+                        <td height="25" class="do17"><a href="/zzgr.html">物业服务企业 
+</a></td>
+                        </tr>
+                      
+                      
+                     
+                      
+                      </table>
+                       
+                      
+                      
+                      
+                   
+                      
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="http://221.4.253.138/">维修资金管理系统
+
+</a></td>
+                        </tr>
+                      </table>
+                      
+                      
+                      
+                      
+                      
+                       
+         
+                      </td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/ni02.gif" width="167" height="3" /></td>
+                  </tr>
+                </table>
+                <!-- 下拉块2E  -->
+              
+              </td>
+            
+             
+              
+              
+              
+              
+              <td   style="position:relative; cursor:hand;"  onmouseover="ShowDownMenu('downmenu4');" onmouseout="HideDownMenu('downmenu4');" >
+                <div style="text-align:center;"><a href="#">住房保障</a></div>
+                <!-- 下拉块4 S -->
+                <table id="downmenu4" border="0"   cellpadding="0" cellspacing="0" style=" position:absolute; display:none;"  >
+                  <tr>
+                    <td><img src="/images/ni01.gif" width="167" height="7" /></td>
+                  </tr>
+                  <tr>
+                    <td background="/images/ni03.gif">
+                    <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="25" class="do17"><a href="http://218.14.207.74:8083/">住房保障系统</a></td>
+                      </tr>
+                    </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="/al_0E29D5C7DEF3B94D_252_362135791BC54B5D3070FE58BA33F5F67EE3BE5FAA8089CB.html">住房保障法规政策</a></td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td class="do17" style="height: 25px"><a href="/al_0E29D5C7DEF3B94D_253_362135791BC54B5D947ED675254378D28F7491968E4010DE.html">住房保障信息动态</a></td>
+                        </tr>
+                      </table>
+                      
+         
+                      </td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/ni02.gif" width="167" height="3" /></td>
+                  </tr>
+                </table>
+                <!-- 下拉块4E  -->
+              
+              </td>
+              
+              
+              
+              <td   style="position:relative; cursor:hand;"  onmouseover="ShowDownMenu('downmenu5');" onmouseout="HideDownMenu('downmenu5');" >
+                <div style="text-align:center;"><a href="#">房屋租赁</a></div>
+                <!-- 下拉块5 S -->
+                <table id="downmenu5" border="0"   cellpadding="0" cellspacing="0" style=" position:absolute; display:none;"  >
+                  <tr>
+                    <td><img src="/images/ni01.gif" width="167" height="7" /></td>
+                  </tr>
+                  <tr>
+                    <td background="/images/ni03.gif">
+                    <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="25" class="do17"><a href="/ac_1043379_8CBA5D4EB9507F26_259_7D92815CB530B6AAF70B05CB3E8F75F6.html">办事指南</a></td>
+                      </tr>
+                    </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17">
+                          <!--
+                          <a href="/EMailTo.aspx?columnflag=wsxf&columnid=19&columnname=局长信箱">局长信箱</a>
+                          -->
+                          <a href="/fwl_137_137_7CEAB8EE754DDD966DD15CD479E9877F.html">政策法规</a>
+                          
+                          </td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17"><a href="/al_D04916F855D42790_300_4D8893899C94CD1FFAF05EAF98FAE47B.html">资料下载</a></td>
+                        </tr>
+                      </table>
+                      
+         
+                      </td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/ni02.gif" width="167" height="3" /></td>
+                  </tr>
+                </table>
+                <!-- 下拉块5E  -->
+              
+              </td>
+              
+              
+              
+              
+              <td   style="position:relative; cursor:hand; width: 112px;"  onmouseover="ShowDownMenu('downmenu3');" onmouseout="HideDownMenu('downmenu3');" >
+                <div style="text-align:center;"><a href="#">网上信访</a></div>
+                <!-- 下拉块3 S -->
+                <table id="downmenu3" border="0"   cellpadding="0" cellspacing="0" style=" position:absolute; display:none;"  >
+                  <tr>
+                    <td><img src="/images/ni01.gif" width="167" height="7" /></td>
+                  </tr>
+                  <tr>
+                    <td background="/images/ni03.gif">
+                    <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td height="25" class="do17"><a href="/cmp_291B4BBFA534DAE1_243_5C3B4B8015C8E482B1AB82587DAEA975.html">投诉信箱</a></td>
+                      </tr>
+                    </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17">
+                          <!--
+                          <a href="/EMailTo.aspx?columnflag=wsxf&columnid=19&columnname=局长信箱">局长信箱</a>
+                          -->
+                          <a href="/ac_58955_291B4BBFA534DAE1_298_638EC3CEC96DAE738361F812B1A784B4.html">投诉电话</a>
+                          
+                          </td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td class="do17" style="height: 25px"><a href="mge_291B4BBFA534DAE1_243_5C3B4B8015C8E482B1AB82587DAEA975.html">留言建议</a></td>
+                        </tr>
+                      </table>
+                      <table width="161" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td height="25" class="do17">
+                          <!--
+                          <a href="/EMailTo.aspx?columnflag=wsxf&columnid=19&columnname=局长信箱">局长信箱</a>
+                          -->
+                          <a href="al_291B4BBFA534DAE1_309_E852CAEE42AA97ED1F025DFFAD1D6BA1.html">调查征集</a>
+                          
+                          </td>
+                        </tr>
+                      </table>
+         
+                      </td>
+                  </tr>
+                  <tr>
+                    <td><img src="/images/ni02.gif" width="167" height="3" /></td>
+                  </tr>
+                </table>
+                <!-- 下拉块3E  -->
+              
+              </td>
+                            <td align="center"><!--栏目名称--><a href='http://192.168.10.12/prequery' target='_blank'>预更正查询</a></td>
+            </tr>
+          </table></td>
+        </tr>
+      </table>
+ 
+      <div style="position:relative; margin:auto; width:996px;">
+        
+      </div>
+      <!-- 下拉菜单区 E -->
+      
+      <table border="0" cellspacing="0" cellpadding="0" style="margin-top:4px">
+       
+        <tr>
+          <td width="75" height="22"><img src="/images/zj05.gif" /></td>
+          <td width="921" class="zc02">
+          <marquee onmouseover=this.stop() onmouseout=this.start() scrollAmount=4 scrollDelay=60   >
+          
+           ·<a href="/ac_3159975_0E29D5C7DEF3B94D_248_DB2E37BC4E18ED79D71D7803B3CBBCE3.html" onmouseover="this.style.color='red';" onmouseout="this.style.color='';this.style.fontWeight='';" target="_blank">商品房现售通知(湛房交函〔2017〕18号)</a> 
+           
+          
+           ·<a href="/ac_3154782_0E29D5C7DEF3B94D_248_DB2E37BC4E18ED79D71D7803B3CBBCE3.html" onmouseover="this.style.color='red';" onmouseout="this.style.color='';this.style.fontWeight='';" target="_blank">关于系统维护升级的通知</a> 
+           
+          
+           ·<a href="/ac_3129556_0E29D5C7DEF3B94D_248_DB2E37BC4E18ED79D71D7803B3CBBCE3.html" onmouseover="this.style.color='red';" onmouseout="this.style.color='';this.style.fontWeight='';" target="_blank">湛江市区退订再销售商品房房源公示（第九十一期）</a> 
+           
+          
+           ·<a href="/ac_3112821_0E29D5C7DEF3B94D_248_DB2E37BC4E18ED79D71D7803B3CBBCE3.html" onmouseover="this.style.color='red';" onmouseout="this.style.color='';this.style.fontWeight='';" target="_blank">湛江市区退订再销售商品房房源公示（第九十期）</a> 
+           
+          
+           ·<a href="/ac_3112824_0E29D5C7DEF3B94D_248_DB2E37BC4E18ED79D71D7803B3CBBCE3.html" onmouseover="this.style.color='red';" onmouseout="this.style.color='';this.style.fontWeight='';" target="_blank">湛江市区退订再销售商品房房源公示（第八十九期）</a> 
+           
+          
+           ·<a href="/ac_3112823_0E29D5C7DEF3B94D_248_DB2E37BC4E18ED79D71D7803B3CBBCE3.html" onmouseover="this.style.color='red';" onmouseout="this.style.color='';this.style.fontWeight='';" target="_blank">湛江市区退订再销售商品房房源公示（第八十八期）</a> 
+           
+          </marquee>
+          </td>
+        </tr>
+        
+      </table>
+      
+      <!-- top E -->
+      
+      
+      <table width="996" border="0" cellpadding="0" cellspacing="0" style="margin-top:4px">
+        <tr>
+          <td width="260" height="22" valign="top">
+            <!-- LeftMenu S -->
+            
+            
+            
+            
+            <!-- LeftMenu E -->
+            <!-- 最新更新  S -->
+            
+
+
+<div>
+
+
+
+<table width="97%" border="0" cellpadding="0" cellspacing="0" style="border:1px solid #f39a00;margin-top:8px">
+              <tr>
+                <td><table width="100%" height="29" border="0" cellpadding="0" cellspacing="0" background="images/zj07.gif">
+                    <tr>
+                      <td width="90%" ><span class="zc06" style="padding-left:35px"><strong>最近更新</strong></span></td>
+                    </tr>
+                </table>
+                
+                  
+                  
+                  <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" background="images/zj08.gif" style="margin:10px auto 10px auto" >
+                  
+                  
+                    <tr>
+                      <td width="20" height="28"><img src="images/no_01.gif" width="13" height="11" /></td>
+                      
+                      <td width="185"><a href="acc_3235240_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html" >保利（湛江）房地产开发有限公...</a></td>
+                    
+                    
+                    </tr>
+                    
+                  
+                    <tr>
+                      <td width="20" height="28"><img src="images/no_02.gif" width="13" height="11" /></td>
+                      
+                      <td width="185"><a href="acc_3235241_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html" >湛江华谛商业投资发展有限公司</a></td>
+                    
+                    
+                    </tr>
+                    
+                  
+                    <tr>
+                      <td width="20" height="28"><img src="images/no_03.gif" width="13" height="11" /></td>
+                      
+                      <td width="185"><a href="acc_3235242_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html" >湛江市顺江房地产开发有限公司</a></td>
+                    
+                    
+                    </tr>
+                    
+                  
+                    <tr>
+                      <td width="20" height="28"><img src="images/no_04.gif" width="13" height="11" /></td>
+                      
+                      <td width="185"><a href="acc_3235237_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html" >保利（湛江）房地产开发有限公...</a></td>
+                    
+                    
+                    </tr>
+                    
+                  
+                    <tr>
+                      <td width="20" height="28"><img src="images/no_05.gif" width="13" height="11" /></td>
+                      
+                      <td width="185"><a href="acc_3235238_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html" >湛江华谛商业投资发展有限公司</a></td>
+                    
+                    
+                    </tr>
+                    
+                  
+                    <tr>
+                      <td width="20" height="28"><img src="images/no_06.gif" width="13" height="11" /></td>
+                      
+                      <td width="185"><a href="acc_3235239_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html" >湛江市顺江房地产开发有限公司</a></td>
+                    
+                    
+                    </tr>
+                     
+                    
+                  </table></td>
+              </tr>
+            </table>
+            
+            </div>
+            
+            
+            <!-- 最新更新  E -->
+            
+            <!-- 网上信访 s -->
+            
+<table width="97%" border="0" cellpadding="0" cellspacing="0" style="border:1px solid #f39a00;margin-top:8px">
+  <tr>
+    <td>
+    <img src="images/zj18.gif" width="245" height="77" usemap="#wsxfmap" border="0" />
+    <map name="wsxfmap" id="wsxfmap">
+      <area shape="rect" coords="0, 0, 70, 70" href="cmp_291B4BBFA534DAE1_243_5C3B4B8015C8E482B1AB82587DAEA975.html"   alt=" " 
+            title=" ">
+      <area shape="rect" coords="80, 0, 150, 70" href="ac_58955_291B4BBFA534DAE1_298_6CB4F51DCB1B5CBBCE1A2064156ED4BD.html"   alt=" " 
+            title=" ">
+      <area shape="rect" coords="160, 0, 250, 70" href="http://www.zjfgj.cn/mge_291B4BBFA534DAE1_243_5C3B4B8015C8E482B1AB82587DAEA975.html"   alt=" " 
+            title=" ">
+    </map>
+    </td>
+  </tr>
+</table>
+            <!-- 网上信访 e -->
+            </td>
+          <td width="736" valign="top"><table width="100%" border="0" cellpadding="5" cellspacing="0" style="border: 1px solid #c9dfdc">
+            <tr>
+              <td valign="top"><table width="100%" height="29" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td width="496" background="images/zj15..gif" style="padding-left:10px"><strong><img src="images/zj19.gif" width="12" height="14" align="absmiddle" /> <span class="zc14">网上签约信息</span></strong></td>
+                </tr>
+              </table>
+                
+                
+                
+                     <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0"  style="margin-top:10px">
+                  <tr>
+                    <td width="280" align="center" class="zc04">开发企业</td>
+                    <td align="center" class="zc04">预订套数</td>
+                    <td width="100" align="center" class="zc04">签约套数</td>
+                    
+                    <td width="150" align="center" class="zc04"> 均价(面积）</td>
+                    <td width="80" align="center" class="zc04">时间</td>
+                  </tr>
+                  <tr>
+                    <td height="1" bgcolor="#c9dfdc" class="zc04"></td>
+                    <td height="1" bgcolor="#c9dfdc" class="zc04"></td>
+                    <td height="1" bgcolor="#c9dfdc" class="zc04"></td>
+                    <td bgcolor="#c9dfdc" class="zc04"></td>
+                    <td bgcolor="#c9dfdc" class="zc04"></td>
+                  </tr>
+                </table>
+                <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" background="images/zj08.gif" style="margin:10px auto 10px auto">
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3162731_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 荣盛广东房地产开发有限公司</a> </td>
+                    <td align="center">1</td>
+                    <td width="100" align="center">1</td>
+                     
+                    <td width="150" align="center">95000.00</td>
+                    <td width="80" align="center">2017-5-16</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3162730_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 湛江市京基房地产开发有限公司</a> </td>
+                    <td align="center">4</td>
+                    <td width="100" align="center">4</td>
+                     
+                    <td width="150" align="center">655400.00</td>
+                    <td width="80" align="center">2017-5-16</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3162729_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 湛江市锦源房地产开发有限公司</a> </td>
+                    <td align="center">1</td>
+                    <td width="100" align="center">1</td>
+                     
+                    <td width="150" align="center">742094.00</td>
+                    <td width="80" align="center">2017-5-16</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3160076_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 湛江市顺江房地产开发有限公司</a> </td>
+                    <td align="center">4</td>
+                    <td width="100" align="center">4</td>
+                     
+                    <td width="150" align="center">4938155.00</td>
+                    <td width="80" align="center">2017-5-15</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3160075_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 湛江华谛商业投资发展有限公司</a> </td>
+                    <td align="center">7</td>
+                    <td width="100" align="center">7</td>
+                     
+                    <td width="150" align="center">3695235.00</td>
+                    <td width="80" align="center">2017-5-15</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3160074_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 中交四航局第三工程有限公司</a> </td>
+                    <td align="center">5</td>
+                    <td width="100" align="center">5</td>
+                     
+                    <td width="150" align="center">4800898.00</td>
+                    <td width="80" align="center">2017-5-15</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3160073_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 保利（湛江）房地产开发有限公司</a> </td>
+                    <td align="center">6</td>
+                    <td width="100" align="center">6</td>
+                     
+                    <td width="150" align="center">5388997.00</td>
+                    <td width="80" align="center">2017-5-15</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3160072_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 湛江开发区荣发房地产开发有限公司</a> </td>
+                    <td align="center">1</td>
+                    <td width="100" align="center">1</td>
+                     
+                    <td width="150" align="center">1237152.00</td>
+                    <td width="80" align="center">2017-5-15</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3160071_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 湛江开发区万达广场投资有限公司</a> </td>
+                    <td align="center">5</td>
+                    <td width="100" align="center">5</td>
+                     
+                    <td width="150" align="center">2639683.00</td>
+                    <td width="80" align="center">2017-5-15</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3160070_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 湛江庆和房地产开发有限公司</a> </td>
+                    <td align="center">2</td>
+                    <td width="100" align="center">2</td>
+                     
+                    <td width="150" align="center">1000000.00</td>
+                    <td width="80" align="center">2017-5-15</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3160069_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 湛江市荣兴房地产有限公司</a> </td>
+                    <td align="center">4</td>
+                    <td width="100" align="center">4</td>
+                     
+                    <td width="150" align="center">2846087.00</td>
+                    <td width="80" align="center">2017-5-15</td>
+                  </tr>
+                
+                  <tr>
+                    <td width="280" height="28" align="center"> <a  href="acc_3160068_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5.html"> 湛江广和实业发展有限公司</a> </td>
+                    <td align="center">3</td>
+                    <td width="100" align="center">3</td>
+                     
+                    <td width="150" align="center">5618181.00</td>
+                    <td width="80" align="center">2017-5-15</td>
+                  </tr>
+                
+	               </table> 
+                 
+       
+ 
+           <table width="100%">
+               <tr>
+                   <td width="40%" align="right" valign="baseline">共<span id="UCList_Total">27497</span> 条信息 当前第<span id="UCList_currentpage">43</span>页/共<span id="UCList_Pages">2292</span>页</td>
+                   <td width="60%" align="left">
+<!-- AspNetPager V6.0.0 for VS2005  Copyright:2003-2006 Webdiyer (www.webdiyer.com) -->
+<div id="UCList_AspNetPager1" align="left"><font color="Black">
+	<a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_1.html">[首页]</a><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_42.html">[上页]</a><span><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_40.html">...</a></span><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_41.html">41</a><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_42.html">42</a><span><b><font color="red">43</font></b></span><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_44.html">44</a><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_45.html">45</a><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_46.html">46</a><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_47.html">47</a><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_48.html">48</a><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_49.html">49</a><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_50.html">50</a><span><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_51.html">...</a></span><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_44.html">[下页]</a><a href="/allpg_BF3B4147E4C989FA_216_6B4D7028B861DF60F4A082D5E56483F5_2292.html">[尾页]</a>&nbsp;&nbsp;<input type="text" value="43" name="UCList$AspNetPager1_input" id="UCList$AspNetPager1_input" onkeydown="ANP_keydown(event,'UCList$AspNetPager1_btn');" style="width:18px;height:12px;" /><input type="Button" name="UCList$AspNetPager1" id="UCList$AspNetPager1_btn" value="go" onclick="if(ANP_checkInput('UCList$AspNetPager1_input',2292)){ANP_goToPage(document.getElementById('UCList$AspNetPager1_input'));}" />
+</font></div>
+<!-- AspNetPager V6.0.0 for VS2005 End -->
+
+</td>
+               </tr>
+           </table>
+  
+ 
+                
+                
+                 
+                 
+                </td>
+            </tr>
+          </table></td>
+        </tr>
+      </table>
+       
+             <!-- foot s -->
+           
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:4px">
+        <tr>
+          <td height="50"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="25" align="center"><img src="/images/link_icon_1.jpg" width="19" height="14" align="absmiddle" border="0" /><a href="http://www.gov.cn/" target="_blank"> 中央政府门户网站</a></td>
+              <td align="center"><img src="/images/link_icon_2.jpg" width="19" height="14" align="absmiddle" /><a href="http://www.zhanjiang.gov.cn/" target="_blank"> 湛江市人民政府网站</a></td>
+              <td align="center"><img src="/images/link_icon_1.jpg" width="19" height="14" align="absmiddle" /> <a href="http://www.mohurd.gov.cn/" target="_blank"> 住房和城乡建设部</a></td>
+            </tr>
+          </table></td>
+          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="25" align="center"><select name="select" class="zj08" onchange="openurl(this.value);">
+                  <option>中央部门</option>
+                  
+                   <option  value="http://www.moe.edu.cn/" >教育部</option>
+                  
+                   <option  value="http://www.sdpc.gov.cn/" >国家发展和改革委...</option>
+                  
+                   <option  value="http://www.pbc.gov.cn/" >中国人民银行</option>
+                  
+                   <option  value="http://www.mlr.gov.cn/" >国土资源部</option>
+                  
+                   <option  value="http://www.mohurd.gov.cn/" >住房和城乡建设部</option>
+                  
+                  
+                </select></td>
+                <td align="center">
+                
+                <select name="select2" class="zj08" onchange="openurl(this.value);">
+                  <option>本市相关部门</option>
+                  
+                   <option  value="http://www.zjgs12315.gov.cn/"  > 湛江市工商行政管... </option>
+                  
+                   <option  value="http://www.zjgh.gov.cn/"  > 湛江市城市规划局 </option>
+                  
+                   <option  value="http://www.zjlr.gov.cn/"  > 湛江市国土资源局 </option>
+                  
+                   <option  value="http://zj.123662.gov.cn/"  > 湛江市地方税务局 </option>
+                  
+                   <option  value="http://zjyouth.gdzjdaily.com.cn/"  > 共青团湛江市委 </option>
+                  
+                   <option  value="http://zjfgj.zhanjiang.gov.cn/"  > 湛江市发展和改革... </option>
+                  
+                </select>
+                
+                </td>
+                <td align="center"><select name="select3" class="zj08" onchange="openurl(this.value);">
+                  <option>区县房管局</option>
+                  
+                </select></td>
+                <td align="center"><select name="select4" class="zj08" onchange="openurl(this.value);">
+                  <option>专业房地产网站</option>
+                  
+                   <option  value="http://www.0759f.com"  > 湛江房产网 </option>
+                  
+                   <option  value="http://zj.soufun.com/"  > 搜房网 </option>
+                  
+                   <option  value="http://www.0759home.com/"  > 湛江购房网 </option>
+                  
+                </select></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin-top:4px">
+        <tr>
+          <td height="5" bgcolor="#FF8103"> </td>
+        </tr>
+        <!--
+        <tr>
+          <td align="center">
+           <a href="/AContent.aspx?id=17368 &columnflag=fwdh&ColumnID=259&ColumnName=市民服务" target="_blank">市民服务</a> 
+          </td>
+        </tr>
+        -->
+        <tr>
+          <td height="70" align="center">
+                 
+                 <div id="UCFoot_pnl">
+	
+                 <span id="UCFoot_msglb"></span>
+                 
+</div>
+
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="16%" align="center"><a href="http://110.gdga.gov.cn/newwebsite/index.htm" target="_blank"><img src="images/ol_alarm.png" width="56" height="75" style=" border-width:0px"/></a><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript   src='http://dcs.conac.cn/js/20/315/0000/40704632/CA203150000407046320001.js' type='text/javascript'%3E%3C/script%3E"));</script></td>
+    <td width="68%" align="center">CopyRight &copy; 2009 All Rights Reserved. 湛江市房产管理局　版权所有 总访问量： 历史访问次数累计： 31002437 <p />
+湛江市房产管理局信息中心技术支持 备案许可证编号: 粤ICP备09123138号-1 </td>
+    <td width="16%">
+        <img src="images/QRCode.png" width="100" height="100" style=" border-width:0px"/>
+    
+</td>
+  </tr>
+</table></td>
+        </tr>
+      </table>
+      
+      
+      
+      <!-- foot e -->
+       
+       </td>
+  </tr>
+</table>
+
+<script type="text/javascript">
+try{
+    $("#jysc")[0].className="bt01";
+   }catch(e) {}
+
+</script>
+
+</form>
+</body>
+</html>
